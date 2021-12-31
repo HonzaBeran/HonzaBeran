@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HonzaBeran
 - 👀 I’m interested in programing in JavaScript and Python. 
-- 🌱 I’m currently learning Tailwind CSS, Vue, React etc. 
+- 🌱 I’m currently learning JS and React. 
 - 💞️ I’m looking to collaborate on wonderful and modern web pages.  
 - 📫 How to reach me: 
     - :email:   Email: beranjan97@gmail.com
